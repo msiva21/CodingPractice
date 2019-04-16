@@ -8,6 +8,7 @@ using namespace std;
 
 int main() {
     int n;
+    int sum = 0;
     cin >> n;
     int a[n][n];
     for (int i = 0; i < n; ++i) {
@@ -16,13 +17,15 @@ int main() {
         }
     }
 
-    int d, s = 0;
 
-    for (int i = n; i > 0; i--) {
-        for (int j = n; j > 0; j--) {
-            if (i == j) { d += a[i][j]; }
+    for (int i = 0; i < n; ++i) {
+        for (int j = 0; j < n; ++j) {
+            if (i == 0 || j == 0 || i == n - 1 || j == n - 1 || i == j||((i+j)==n-1)) {
+                sum += a[i][j];
+            }
+
         }
     }
-    cout << d;
+    cout << sum;
     return 0;
 }
