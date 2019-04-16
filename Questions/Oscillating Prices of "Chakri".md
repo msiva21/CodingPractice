@@ -1,5 +1,5 @@
 ## Oscillating Prices of "Chakri"
-
+[Question Link](https://codingninjas.in/app/classroom/me/723/content/11042/offering/88170/problem/2935)
 >Diwali is here. While everyone here is busy texting "Happy Diwali" wishes to everybody else, NinjaCoder has some other plans and wants to earn some money this season.
 
 >Now, the Apex court has allowed sale of only green crackers this Diwali. Out of all green crackers, "Chakri" is most popular. Because of irregular supply of "Chakri", price of "Chakri" is oscillating daily. NinjaCoder saw a business opportunity in this. He/She got price list for coming N days from an insider in market union. Prices in the list are for 1 unit of large packet of "Chakri". Each large packet contains 100 units of Chakri.
