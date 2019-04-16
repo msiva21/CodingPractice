@@ -4,4 +4,4 @@ project(CN_practice)
 set(CMAKE_CXX_STANDARD 14)
 
 
-add_executable(run_file "Questions/Target Marbles.cpp")
+add_executable(run_file "src/Target Marbles.cpp")
