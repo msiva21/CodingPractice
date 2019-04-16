@@ -7,6 +7,6 @@
 using namespace std;
 
 int main() {
-        xdvdf
-    return 0;
+
+        return 0;
 }
