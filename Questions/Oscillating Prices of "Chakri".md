@@ -7,7 +7,7 @@
 >Now, due to financial limitations, NinjaCoder can transact only 1 large packet (100 units of "Chakri") in the market. You have to tell maximum profit possible, given that he/she can transact atmost one time.
 
 >Note: 1. Transaction refers to the act of buying and selling.
-      2. "Chakri" cannot be sold individually. NinjaCoder has to buy/sell the entire packet.
+      2. "Chakri" cannot be sold individually. NinjaCoder has to buy/sell the entire packet. 
 
 ##### Input Format
 ```
